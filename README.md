@@ -1,5 +1,5 @@
 
-I am a Computer Science student passionate about programming and problem-solving. I work with C, C++, and Python, and I am currently learning OOP and design patterns while building real-world projects.
+I am a Computer Science student passionate about programming and problem-solving. I work with C, C++, and Python, and I am currently learning DSA while building real-world projects.
 
 
 # 💻 Tech Stack:
